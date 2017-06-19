@@ -21,4 +21,4 @@ public class BasicOperations {
 0.33333334
 */
 
-// to get decimal point as result of division one of the operand has to be float
+// to get decimal point as result of division one of the operand has to be float.
