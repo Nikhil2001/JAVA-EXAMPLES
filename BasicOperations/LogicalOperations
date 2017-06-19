@@ -1,0 +1,32 @@
+public class LogicalOperations {
+
+    public static void main(String args[]){
+
+        int a=10;
+        int b=30;
+        int c=40;
+        int d=40;
+        boolean opr1 = a<b;
+        boolean opr2 = a>b;
+        boolean opr3 = a==b;
+        boolean opr4 = a!=b;
+        boolean opr5 = c>=d;
+        
+        System.out.println(opr1);
+        System.out.println(opr2);
+        System.out.println(opr3);
+        System.out.println(opr4);
+        System.out.println(opr5);
+
+    }
+}
+
+/*
+output:
+
+true
+false
+false
+true
+
+*/
