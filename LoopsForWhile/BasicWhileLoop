@@ -1,7 +1,7 @@
 package com.Loops;
 
 
-public class WhileLoop {
+public class BasicWhileLoop {
 
     public static void main(String srgs[]){
         int i=1;
