@@ -11,3 +11,8 @@ public class IfCondition {
         }
     }
 }
+
+/*output :
+100 is greater than 20
+
+*/
