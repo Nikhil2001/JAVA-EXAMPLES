@@ -1,0 +1,24 @@
+package com.BasicOperations;
+
+
+public class BasicOperations {
+
+    public static void main(String args[]){
+
+        int a=10;
+        int b=30;
+        int c=10;
+        float d =30;
+        int div1=a/b;
+        float div2=c/d;
+        System.out.println(div1);
+        System.out.println(div2);
+    }
+}
+
+/*prints 
+0.0
+0.33333334
+*/
+
+// to get decimal point as result of division one of the operand has to be float
