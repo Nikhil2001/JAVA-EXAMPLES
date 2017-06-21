@@ -11,3 +11,11 @@ public class CakeInstance {
         System.out.println("this prints given flavor: "+cake2.flavor);
     }
 }
+
+
+/* output:
+
+this prints default flavor mango ?? :mango
+this prints given flavor: pineapple
+
+*/
