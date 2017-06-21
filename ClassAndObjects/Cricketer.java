@@ -19,12 +19,12 @@ public class Cricketer {
     }
 
     public String getName( ){
-        return this.name;
+        return name;
     }
     public  String getCoutry( ){
-        return this.country;
+        return country;
     }
     public  int getAge( ){
-        return this.age;
+        return age;
     }
 }
