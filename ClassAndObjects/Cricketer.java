@@ -1,8 +1,6 @@
 package ClassAndObjects;
 
-/**
- * Created by enilmaa on 2017-06-21.
- */
+
 public class Cricketer {
 
     private String name;
