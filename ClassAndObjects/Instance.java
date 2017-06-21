@@ -14,3 +14,9 @@ public class Instance {
    System.out.println("country: "+Dhoni.getCoutry());
   }
 }
+/*output:
+
+age: 36
+name: M.S Dhoni
+country: India
+*/
