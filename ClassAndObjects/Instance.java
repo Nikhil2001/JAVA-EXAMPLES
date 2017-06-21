@@ -1,8 +1,6 @@
 package ClassAndObjects;
 
-/**
- * Created by enilmaa on 2017-06-21.
- */
+
 public class Instance {
   public static void main(String args[]){
       Cricketer Dhoni =new Cricketer();
