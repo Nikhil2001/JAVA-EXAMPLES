@@ -11,3 +11,8 @@ public class Mybike {
         System.out.println("suzuki has "+suzuki.getWheels()+" wheels");
     }
 }
+/*output
+Bikes do not have 5 wheels
+suzuki has 2 wheels
+
+*/
