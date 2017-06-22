@@ -1,8 +1,5 @@
 import javax.management.InstanceAlreadyExistsException;
 
-/**
- * Created by enilmaa on 2017-06-22.
- */
 public class AclassAndAnInstance {
     int x;
     public String y;
@@ -22,3 +19,9 @@ public class AclassAndAnInstance {
         System.out.println("the value of z is "+instance.z);
     }
 }
+/*
+The  value of x  is 10
+The value of y is Nikhil
+the value of z is true
+
+*/
