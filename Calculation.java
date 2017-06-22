@@ -18,7 +18,8 @@ public class Calculation {
         }
 
     }
-//this method defaults assumes no same numbers are passed to avoid return 0 when sub operation was performed
+//this method defaults assumes no same numbers are passed , to avoid return 0 when sub operation was performed use diff numbers
+
     public static void main(String args[]){
          System.out.println(calculation(1,2,"add"));
         System.out.println(calculation(1,2,"mul"));
