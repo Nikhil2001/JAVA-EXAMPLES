@@ -11,3 +11,11 @@ Car ferrari  = new Car("ferrari","car",2009,"black",4,5);
     System.out.println(ferrari.getWheels());
 }
 }
+
+/*output
+
+4
+ferrari
+this is from vehicle class
+this is from class car
+*/
