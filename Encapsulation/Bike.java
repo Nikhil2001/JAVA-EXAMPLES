@@ -17,3 +17,9 @@ public class Bike {
         return wheels;
     }
 }
+
+
+/*
+class Bike has field which can be set by instance.wheels = 5 but to avoid invalid number setter and getters are used.
+this is called encapsulation
+*/
