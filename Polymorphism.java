@@ -1,5 +1,4 @@
-import javax.management.remote.SubjectDelegationPermission;
-
+// creating base class Car
 class Car{
 
     boolean engine;
@@ -84,10 +83,10 @@ class Ferrari extends Car {
 
         }
     }
-
+//subclasses ferrari and audi were created
 public class Polymorphism {
     public static void main(String[] args) {
-        Car ferrari= new Ferrari("ferrari",4);
+        Car ferrari= new Ferrari("ferrari",4);  //super class reference for subclass object
         Car audi = new  Audi("audi",5);
         System.out.println(ferrari.getName()+" has "+ferrari.getCylinders()+" cylinders");
         ferrari.brake();
